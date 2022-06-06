@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		A103A004267961BE00EBB8D1 /* swift-passmaker */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "swift-passmaker"; sourceTree = BUILT_PRODUCTS_DIR; };
-		A103A007267961BE00EBB8D1 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		A103A007267961BE00EBB8D1 /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
